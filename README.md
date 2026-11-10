@@ -1,3 +1,3 @@
 # Demo
 Just a check
-auther-Prajval
+author-Prajval
